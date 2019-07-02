@@ -69,8 +69,8 @@
     if __name__ == '__main__':
         bot = WXChatBot()
         
-        # bot.inter_start()
-        bot.local_start()
+        # bot.inter_start()     #微信自动回复
+        bot.local_start()   #本地使用   
       
     </code></pre>
    
